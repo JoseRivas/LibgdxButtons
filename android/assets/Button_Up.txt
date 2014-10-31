@@ -1,0 +1,18 @@
+UpButton.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+up button
+  rotate: false
+  xy: 2, 2
+  size: 243, 253
+  orig: 256, 256
+  offset: 7, 0
+  index: -1
+up_button
+  rotate: false
+  xy: 2, 257
+  size: 243, 253
+  orig: 256, 256
+  offset: 6, 3
+  index: -1
