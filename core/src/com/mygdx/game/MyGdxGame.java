@@ -32,7 +32,7 @@ public class MyGdxGame extends ApplicationAdapter {
         textButtonStyle.up = skin.getDrawable("Button_Pressed");
         textButtonStyle.down = skin.getDrawable("Button_Released");
         textButtonStyle.checked = skin.getDrawable("Button_Pressed");
-        button = new TextButton("Button1", textButtonStyle);
+        button = new TextButton("", textButtonStyle);
         stage.addActor(button);
     }
 
