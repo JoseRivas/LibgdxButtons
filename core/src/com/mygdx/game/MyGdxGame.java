@@ -85,7 +85,6 @@ public class MyGdxGame extends ApplicationAdapter {
             public void changed (ChangeEvent event, Actor actor) {
                 //if button is pressed do stuff
                 body.setLinearVelocity(100f,100f);
-                System.out.println("button works");
             }
         });
     }
